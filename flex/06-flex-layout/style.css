@@ -25,3 +25,17 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+li{
+  list-style: none;
+}
+
+a:link{
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover{
+  color: gray;
+  text-decoration: underline;
+}
